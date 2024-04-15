@@ -1,6 +1,6 @@
 # Playground Start
 
-This is the starter code for the playground project we use in part 2 of my React course. 
+This is the starter code for the React setup. 
 
 ## Getting Started
 
